@@ -10,7 +10,7 @@ A modern AI chat application inspired by ChatGPT with memory, voice support, and
 - 🧠 Chat history & memory  
 - 🎤 Voice input & output  
 - 🔐 Secure backend API  
-- 📱 Responsive design  
+- 📱 Responsive designing system 
 
 ## 🛠️ Tech Stack
 - Frontend: React.js, Tailwind CSS  
