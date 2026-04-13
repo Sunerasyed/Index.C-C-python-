@@ -37,4 +37,4 @@ npm start
 
 ---
 
-If you want even **[shorter (like 3–4 lines for portfolio)](reference-followup:935)** or **[premium GitHub README with badges](reference-followup:981)**, tell me 👍
+If you want even **[shorter (like 3–4 lines for portfolio)](reference-followup:935)** or **[premium GitHub README with badges](reference-followup:981)**, tell me 
