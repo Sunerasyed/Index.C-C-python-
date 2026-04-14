@@ -102,7 +102,7 @@ button {
 
 <body>
 <div class="container">
-  <h2>🤖 AI Chatbox</h2>
+  <h2>🤖👾👾 AI Chatbox</h2>
 
   <div class="chat-box" id="chat"></div>
 
